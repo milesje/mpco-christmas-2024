@@ -84,7 +84,7 @@
     </div>
 
     <div class="flex flex-col items-center min-h-[100vh] space-y-2">
-      <span class="text-3xl italic bold">~~~~~ Advertisments ~~~~~</span>
+      <span class="text-3xl italic bold">~~~ Advertisments ~~~</span>
       <img src="{base}/advertising1.png" alt="advertising1" />
       <img src="{base}/Advertising-3.jpg" alt="advertising1" />
       <img src="{base}/ads-2.jpg" alt="advertising1" />
